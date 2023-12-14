@@ -1,4 +1,7 @@
 https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg
+
+<span>![</span><span>Cintillo</span><span>]</span><span>(</span><span [https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg]</span><span>)</span>
+
 ### Hola soy Vhiktor Rincon// Hi there, I'm Vhiktor Rincón 👋
 
 Soy un estudiante de Lic. en Ciencia de Datos y Lic. en Matemáticas de la Universidad Rosario Castellanos y la Universidad Autónoma a Distancia de México. Me gusta aprender a programar en Colab y Visual Studio Code en Python y Java. 
