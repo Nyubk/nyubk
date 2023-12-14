@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg
 
-<span>![</span><span>Cintillo</span><span>]</span><span>(</span><span [https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg]</span><span>)</span>
+<insert image=https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg]>
 
 ### Hola soy Vhiktor Rincon// Hi there, I'm Vhiktor Rincón 👋
 
