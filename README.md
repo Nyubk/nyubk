@@ -7,4 +7,4 @@ Recientemente partícipe como ponente en el Coloquio de Lingüística Computacio
 
 Estoy interesado en el Machine Learning aplicado a la ciberseguridad y la seguridad informatica.💻🔐 así como la implementación de sistemas informaticos en el análisis de datos antropológicos. 🔎🧬💀
 
-Cuento además con conocimientos basicos en C++, la trifecta de JS/HTML6/CSS3 y R.
+Cuento además con conocimientos basicos en C++ y la trifecta de JS/HTML6/CSS3 y R.
