@@ -1,6 +1,6 @@
 ### Hola soy Vhiktor Rincon// Hi there, I'm Vhiktor Rincón 👋
 
-Soy un estudiante de Lic. en Ciencia de Datos y Lic. en Matemáticas de la Universidad Rosario Castellanos y la Universidad Autónoma a Distancia de México. Me gusta aprender a programar en Colab y Visual Studio Code en Python y Java. 
+Soy un estudiante de Lic. en Ciencia de Datos y Lic. en Matemáticas de la Universidad Rosario Castellanos y la Universidad Autónoma a Distancia de México. Me gusta aprender a programar en Colab y Visual Studio Code usando Python y Java. 
 
 Recientemente partícipe como ponente en el Coloquio de Lingüística Computacional XI de la Facultad de Filosofía y Letras de la UNAM, he trabajado en las áreas de Soporte TI de diferentes empresas transnacionales. 
 
