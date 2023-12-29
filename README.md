@@ -1,5 +1,3 @@
-<span>![</span><span>Cintillo_blanco_URC</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Nyubk/nyubk/main/Cintillo_blanco-01.jpg</span><span>)</span>
-
 
 ### Hola soy Vhiktor Rincon// Hi there, I'm Vhiktor Rincón 👋
 
